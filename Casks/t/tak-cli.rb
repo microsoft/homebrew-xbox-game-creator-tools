@@ -1,6 +1,6 @@
 cask "tak-cli" do
-  version "11.12.0"
-  sha256 "c819877c5f0ea456ba6a573e3dcbbe22f863ff0d1f5cf6e054b1bf17f7c9ede1"
+  version "11.16.0"
+  sha256 "c398759070c6bb586aa4cbc47fb4c559e2bcdb7afea9b430f464240910732c22"
 
   url "https://github.com/microsoft/xbox-game-streaming-tools/releases/download/tak-cli-v#{version}/tak-#{version}.dmg"
   name "Touch Adaptation Kit Command Line Tool (TAK CLI)"
