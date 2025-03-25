@@ -1,7 +1,7 @@
 cask "tak-cli" do
-    version "11.35.0"
-    sha256 arm:   "7b55a453a93a7b22ef0e3589b8fe5309c8a48d1fe0646b1025ad5b605d1e65a8",
-           intel: "127d8faf292cbcc2cfc7fa288b5e2c6f00ab107f99d29ef60eb0548088915205"
+    version "11.36.0"
+    sha256 arm:   "5b11cce98dbd5aa76714f1d27688c3cf71699e6b9b47cf421df3b5418f9a5dd7",
+           intel: "b4a569ffaedf1234e48828c1a12feed214e5e4d2012fdd0e221b1db22828a895"
     arch arm: "osx-arm64", intel: "osx-x64"
 
     url "https://github.com/microsoft/xbox-game-streaming-tools/releases/download/tak-cli-v#{version}/tak-#{version}-#{arch}.dmg"
